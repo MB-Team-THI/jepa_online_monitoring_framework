@@ -1,0 +1,12 @@
+einops==0.8.0
+matplotlib
+x-transformers
+wandb
+scikit-learn
+seaborn
+pyod
+numpy==1.26.4
+torch==2.5.1
+tqdm
+fvcore
+umap-learn==0.5.7
