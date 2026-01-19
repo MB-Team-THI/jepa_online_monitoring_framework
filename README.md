@@ -88,7 +88,7 @@ Paper Links:
 pip install -r requirements.txt
 ```
 
-3. Download the processed database from [Data-Link](https://faubox.rrze.uni-erlangen.de/getlink/fiSsrNqZMH2dg7W8q7MaEF/nuscenes) and unzip it into the `\data`, resulting in:
+3. Download the processed database from [Data-Link](https://faubox.rrze.uni-erlangen.de/getlink/fiB1V2csEB5un7X6sehzGm/) and unzip it into the `\data`, resulting in:
 ```bash
 data/nuscenes/train/base/
 data/nuscenes/val/base/
