@@ -54,6 +54,7 @@ Paper Links:
 ## Architecture Overview
 
 <b>(a)</b> Overview of the online monitoring framework: In the perception system Multi-Object Tracking (MOT) is performed to obtain object state estimations, which are encoded by the object encoder $E_{\theta}$ into latent embeddings ${z}$ and used for anomaly detection.
+<br>
 <b>(b)</b> Architecture of the JEPA-based self-supervised embedding method.
 
 <table align="center">
@@ -125,6 +126,11 @@ python main_baseline.py
 
 ## Citation
 ```
-@INPROCEEDINGS - TBD
+@InProceedings{Fertig2026,
+  author     = {Alexander Fertig and Karthikeyan Chandra Sekaran and Lakshman Balasubramanian and Michael Botsch},
+  booktitle  = {2026 IEEE Intelligent Vehicles Symposium (IV)},
+  title      = {Online Monitoring Framework for Automotive <br>Time Series Data using JEPA Embeddings},
+  year       = {2026},
+}
 ```
 
