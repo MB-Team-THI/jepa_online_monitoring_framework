@@ -16,14 +16,24 @@
 </p>
 
   <p align="center">
+    <h3 align="center">
       <a href="https://www.linkedin.com/in/alexanderfertig/" >Alexander Fertig</a><sup>1</sup>,&nbsp;&nbsp;    
       <a href="https://www.linkedin.com/in/karthikeyan-chandra-sekaran-54b165227/" >Karthikeyan Chandra Sekaran</a><sup>2</sup>,&nbsp; &nbsp;
-      <a href="https://www.linkedin.com/in/lakshman-balasubramanian-50548477/" >Lakshman Balasubramanian</a><sup>2</sup>&nbsp; and &nbsp;
+      <a href="https://www.linkedin.com/in/lakshman-balasubramanian-50548477/" >Lakshman Balasubramanian</a><sup>3</sup>&nbsp; and &nbsp;
       <a href="https://www.thi.de/personen/prof-dr-ing-michael-botsch/" >Michael Botsch</a><sup>1,2</sup>&nbsp;&nbsp;
+    </h3>    
+    <p align="center">
     <br>
-    <small><sup>1</sup>Technische Hochschule Ingolstadt, AImotion Bavaria, Esplanade 10, 85049 Ingolstadt, Germany</small>
+    <small><sup>1</sup>Technische Hochschule Ingolstadt, AImotion Bavaria, Esplanade 10, 85049 Ingolstadt, Germany,</small>
     <br>
-    <small><sup>2</sup>Technische Hochschule Ingolstadt, Research Center CARISSMA , Esplanade 10, 85049 Ingolstadt, Germany</small>
+    <a href="alexander.fertig@thi.de">alexander.fertig@thi.de</a> and <a href="michael.botsch@thi.de">michael.botsch@thi.de</a>
+    <br>
+    <small><sup>2</sup>Technische Hochschule Ingolstadt, Research Center CARISSMA , Esplanade 10, 85049 Ingolstadt, Germany,</small>
+    <br>    
+    <a href="karthikeyan.chandrasekaran@thi.de">karthikeyan.chandrasekaran@thi.de</a>
+    <br>    
+    <small><sup>3</sup>Independent researcher, <a href="balasubramanianlakshman@gmail.com">balasubramanianlakshman@gmail.com</a> </small>
+  </p>
   </p>
 </p>
 
