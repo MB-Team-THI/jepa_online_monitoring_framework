@@ -26,13 +26,13 @@
     <br>
     <small><sup>1</sup>Technische Hochschule Ingolstadt, AImotion Bavaria, Esplanade 10, 85049 Ingolstadt, Germany,</small>
     <br>
-    <a href="alexander.fertig@thi.de">alexander.fertig@thi.de</a> and <a href="michael.botsch@thi.de">michael.botsch@thi.de</a>
+    <a href="mailto:alexander.fertig@thi.de">alexander.fertig@thi.de</a> and <a href="mailto:michael.botsch@thi.de">michael.botsch@thi.de</a>
     <br>
     <small><sup>2</sup>Technische Hochschule Ingolstadt, Research Center CARISSMA , Esplanade 10, 85049 Ingolstadt, Germany,</small>
     <br>    
-    <a href="karthikeyan.chandrasekaran@thi.de">karthikeyan.chandrasekaran@thi.de</a>
+    <a href="mailto:karthikeyan.chandrasekaran@thi.de">karthikeyan.chandrasekaran@thi.de</a>
     <br>    
-    <small><sup>3</sup>Independent researcher, <a href="balasubramanianlakshman@gmail.com">balasubramanianlakshman@gmail.com</a> </small>
+    <small><sup>3</sup>Independent researcher, <a href="mailto:balasubramanianlakshman@gmail.com">balasubramanianlakshman@gmail.com</a> </small>
   </p>
   </p>
 </p>
