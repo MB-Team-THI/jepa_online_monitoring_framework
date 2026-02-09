@@ -101,7 +101,7 @@ pip install -r requirements.txt
 3. Download the processed database from [Data-Link](https://faubox.rrze.uni-erlangen.de/getlink/fiB1V2csEB5un7X6sehzGm/) and unzip it into the `\data`, resulting in:
 ```bash
 data/nuscenes/train/base/
-data/nuscenes/val/base/
+data/nuscenes/test/base/
 
 ```
 Each sample corresponds to one nuScenes scene, which contains the object lists from different sensor modalities. 
@@ -135,7 +135,7 @@ python main_baseline.py
 
 ## Citation
 ```
-@InProceedings{Fertig2026,
+@InProceedings{Fertig2026a,
   author     = {Alexander Fertig and Karthikeyan Chandra Sekaran and Lakshman Balasubramanian and Michael Botsch},
   booktitle  = {2026 IEEE Intelligent Vehicles Symposium (IV)},
   title      = {Online Monitoring Framework for Automotive <br>Time Series Data using JEPA Embeddings},
