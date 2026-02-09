@@ -12,7 +12,6 @@
   <img src="https://img.shields.io/badge/arXiv-2501.03666-b31b1b"/>
   </a>
   <img src="https://img.shields.io/badge/PyTorch-1.9+-ee4c2c"/>
-  <img src="https://img.shields.io/badge/License-MIT-green"/>
 </p>
 
   <p align="center">
