@@ -87,9 +87,13 @@ Paper Links:
 ## Setup
 
 #### Requirements
-- Python 3.8+
-- PyTorch 1.9+
-- CUDA 12.x (optional, for GPU support)
+The code was developed using the following environment:
+- Python 3.9.21
+- PyTorch 2.5.1
+- CUDA 12.6 (optional, required for GPU acceleration)
+
+Other versions may work but have not been explicitly tested.
+
 
 ### Installation
 1. Clone this repository
@@ -140,6 +144,7 @@ python main_baseline.py
   booktitle  = {2026 IEEE Intelligent Vehicles Symposium (IV)},
   title      = {Online Monitoring Framework for Automotive <br>Time Series Data using JEPA Embeddings},
   year       = {2026},
+  doi        = {},
 }
 ```
 
