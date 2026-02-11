@@ -8,8 +8,8 @@
   <a href="https://ieee-iv.org/2026/">
   <img src="https://img.shields.io/badge/Conference-IV%202026-blue"/>
   </a>
-  <a href="https://arxiv.org/abs/2501.03666">
-  <img src="https://img.shields.io/badge/arXiv-2501.03666-b31b1b"/>
+  <a href="https://arxiv.org/abs/2602.09985">
+  <img src="https://img.shields.io/badge/arXiv-2602.09985-b31b1b"/>
   </a>
   <img src="https://img.shields.io/badge/PyTorch-1.9+-ee4c2c"/>
 </p>
@@ -47,7 +47,7 @@ This repository provides the official implementation of our IEEE IV 2026 paper:
 **"Online Monitoring Framework for Automotive Time Series Data using JEPA Embeddings"**
 
 Paper Links:
-- arXiv: [TBD](https://arxiv.org/abs/2501.03666)
+- arXiv: [https://doi.org/10.48550/arXiv.2602.09985](https://doi.org/10.48550/arXiv.2602.09985)
 - IEEE Xplore: to be announced
 
 
@@ -89,7 +89,7 @@ Paper Links:
 #### Requirements
 The code was developed using the following environment:
 - Python 3.9.21
-- PyTorch 2.5.1
+- Torch 2.5.1
 - CUDA 12.6 (optional, required for GPU acceleration)
 
 Other versions may work but have not been explicitly tested.
@@ -139,12 +139,13 @@ python main_baseline.py
 
 ## Citation
 ```
-@InProceedings{Fertig2026a,
-  author     = {Alexander Fertig and Karthikeyan Chandra Sekaran and Lakshman Balasubramanian and Michael Botsch},
-  booktitle  = {2026 IEEE Intelligent Vehicles Symposium (IV)},
-  title      = {Online Monitoring Framework for Automotive <br>Time Series Data using JEPA Embeddings},
-  year       = {2026},
-  doi        = {},
+@misc{fertig2026onlinemonitoringframeworkautomotive,
+      title={Online Monitoring Framework for Automotive Time Series Data using JEPA Embeddings}, 
+      author={Alexander Fertig and Karthikeyan Chandra Sekaran and Lakshman Balasubramanian and Michael Botsch},
+      year={2026},
+      eprint={2602.09985},
+      archivePrefix={arXiv},
+      url={https://arxiv.org/abs/2602.09985}, 
 }
 ```
 
