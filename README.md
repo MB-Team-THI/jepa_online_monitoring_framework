@@ -48,7 +48,7 @@ This repository provides the official implementation of our IEEE IV 2026 paper:
 
 Paper Links:
 - arXiv: [https://doi.org/10.48550/arXiv.2602.09985](https://doi.org/10.48550/arXiv.2602.09985)
-- IEEE Xplore: to be announced
+- IEEE Xplore: [https://doi.org/10.1109/IV66570.2026.11624095](https://doi.org/10.1109/IV66570.2026.11624095)
 
 
 
@@ -139,13 +139,14 @@ python main_baseline.py
 
 ## Citation
 ```
-@misc{fertig2026onlinemonitoringframeworkautomotive,
-      title={Online Monitoring Framework for Automotive Time Series Data using JEPA Embeddings}, 
-      author={Alexander Fertig and Karthikeyan Chandra Sekaran and Lakshman Balasubramanian and Michael Botsch},
-      year={2026},
-      eprint={2602.09985},
-      archivePrefix={arXiv},
-      url={https://arxiv.org/abs/2602.09985}, 
-}
+@INPROCEEDINGS{11624095,
+  author={Fertig, Alexander and Sekaran, Karthikeyan Chandra and Balasubramanian, Lakshman and Botsch, Michael},
+  booktitle={2026 IEEE Intelligent Vehicles Symposium (IV)}, 
+  title={Online Monitoring Framework for Automotive Time Series Data using JEPA Embeddings}, 
+  year={2026},
+  volume={},
+  number={},
+  pages={1705-1711},
+  doi={10.1109/IV66570.2026.11624095}}
 ```
 
